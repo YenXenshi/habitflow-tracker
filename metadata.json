@@ -1,0 +1,6 @@
+{
+  "name": "HabitFlow - Daily Habit Tracker",
+  "description": "A clean, simple personal daily habit tracker with streaks, checkboxes, and browser local storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
